@@ -1,0 +1,176 @@
+@media(max-width:575px){
+
+}
+
+
+@media(min-width:576px) and  (max-width:767px){
+  
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 transparent !important;
+  }
+  .banner-head h3{
+    font-size: 20px;
+  }
+  .navbar-nav{
+    background-color: #fce38a;
+  }
+  .banner-head h1{
+  font-size: 50px;
+  }
+  .banner-head h2{
+    font-size: 50px;
+  }
+  .about-img{
+    margin: 20px 110px;
+  }
+  .quote-img i{
+    padding-right: 30px;
+  }
+  .quote-text p::after{
+    top: 130%;
+  }
+  .quote-img i{
+    padding-left: 5px;
+    padding-top: 50px;
+
+}
+  .quote-text p{
+    font-size: 10px;
+  }
+  .team-icon i{
+    padding: 6px;
+  }
+  .team-text h6{
+    font-size: 13px;
+  }
+  .team-text p{
+    font-size: 12px;
+  }
+  /* .footer-left{
+    text-align: center;
+
+  } */
+  .footer-left span{
+    padding-left: 200px;
+  }
+  .footer-left span::after{
+    width: 500px
+  }
+  .footer-left h2{
+    padding-left: 200px;
+
+  }
+  .footer-left p{
+    text-align: center;
+    padding: 0 50px;
+  }
+  .footer-icon{
+     margin-left: 100px;
+  }
+  .new-botton{
+    padding:0 100px;
+  }
+  .blog-main h5{
+    padding-top: 40px;
+    text-align: center;
+  }
+  .footer-right h5{
+    text-align: center;
+  }
+  
+}
+
+@media(min-width:768px) and (max-width:991px){
+  .navbar-toggler{
+    border: 2px solid #fff;
+  }
+  .navbar-toggler i{
+    color: #fff;
+    font-size: 20px;
+  }
+  .navbar-nav{
+    flex-direction: row;
+    background-color: rgb(138, 127, 255);
+  }
+  .navbar-nav li a{
+    padding-left: 30px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 transparent !important;
+  }
+  .banner-head h3{
+    font-size: 40px;
+  }
+    .banner-head h1{
+      font-size: 60px;
+    }
+    .banner-head h2{
+      font-size: 60px;
+    }
+    .counter-md{
+      margin-left: 100px;
+    }
+    .quote-img i{
+      padding-right: 30px;
+    }
+    .quote-text p::after{
+      top: 118%;
+    }
+    .team-md{
+      padding: 10px 180px;
+    }
+    .blog-main h5{
+      padding-top: 40px;
+      text-align: center;
+    }
+    .blog-inner{
+      margin-left: 100px;
+    }
+    .footer-left span{
+      padding-left: 300px;
+    }
+    .footer-left span::after{
+      width: 700px
+    }
+    .footer-left h2{
+      text-align: center;
+  
+    }
+    .footer-left p{
+      text-align: center;
+      padding: 0 50px;
+    }
+    .footer-icon{
+       margin-left: 200px;
+    }
+    .new-botton{
+      padding:0 200px;
+    }
+    .footer-right h5{
+      text-align: center;
+      padding-top: 40px;
+    }
+    .footer-img1{
+      padding: 0 250px;
+    }
+    .right-text{
+      text-align: center;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+  .footer-left span::after{
+    width: 280px
+  }
+  .new-botton input{
+    font-size: 18px;
+  }
+
+}
+
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
